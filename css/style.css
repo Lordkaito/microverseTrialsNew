@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #navbar{
     display: flex;
     justify-content: flex-end;
@@ -22,3 +23,60 @@ margin-right:10px;
     padding: 0.5rem 1rem;
 }
     
+=======
+html {
+    margin: 0;
+    border: none;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+    padding: 1em 6em;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    width: 18em;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+
+}
+
+#contact-email {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+input {
+    width: 15%;
+    margin: 1em 0;
+}
+
+#btn {
+    padding: .7em;
+    background-color: orange;
+    outline: none;
+    border: 0;
+    max-width: 150px;
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+>>>>>>> d86baf4920e4ea779486a646d337817d28667160
