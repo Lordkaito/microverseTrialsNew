@@ -1,0 +1,24 @@
+#navbar{
+    display: flex;
+    justify-content: flex-end;
+    background-color:#BE3144;
+}
+a{
+text-decoration: none;
+font-size: 20px;
+color: white(255, 255, 255);
+}
+li{
+margin-right:10px;
+}
+#parent > li {
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+    background-color: red;
+}
+#main-footer div a {
+    color: #333;
+    padding: 0.5rem 1rem;
+}
+    
